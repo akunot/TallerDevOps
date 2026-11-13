@@ -1,3 +1,4 @@
+# Configuracion de Prometheus: scrape de la app Flask cada 5s
 global:
   scrape_interval: 5s
 scrape_configs:
